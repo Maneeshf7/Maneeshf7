@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Maneeshf7
-- 👀 I’m interested in ... Data Analyst ,AI Engineering, Cyber Security
+- 👀 I’m interested in ... **Data Analytics**, **AI Engineering**, and **Cybersecurity**
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... on beginner-friendly tech projects
 - 📫 How to reach me ...lmaneesh887@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I love combining tech and logic to solve real-world problems
 
 <!---
 Maneeshf7/Maneeshf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
