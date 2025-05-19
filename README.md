@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maneeshf7
-- 👀 I’m interested in ... data analyst
+- 👀 I’m interested in ... data analyst ,ai engineering, cyber security
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lmaneesh887@gmail.com
