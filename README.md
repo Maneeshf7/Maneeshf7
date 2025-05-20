@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maneeshf7
 - 👀 I’m interested in ... **Data Analytics**, **AI Engineering**, and **Cybersecurity**
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python programming
 - 💞️ I’m looking to collaborate on ... on beginner-friendly tech projects
 - 📫 How to reach me ...lmaneesh887@gmail.com
 - 😄 Pronouns: ...He/Him
